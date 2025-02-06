@@ -14,6 +14,7 @@ simple way:
 3. Run it.
 - using npm : "npm run start"
 - using yarn : "yarn start"
+
 if work then continue to next step!
 
 4. Run this command: "electron-packager ./ "your-application-name" --platformm=win32 --arch=x64 --icon=./example.ico"
