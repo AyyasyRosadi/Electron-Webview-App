@@ -7,19 +7,18 @@
 simple way:
 
 1. Installing Package
-> if you dont have npm or yarn you can download from this url https://nodejs.org/en/download
-
+> if you dont have npm or yarn you can download from this url https://nodejs.org/en/download.
 - using npm: "run npm i"
 - using yarn: "yarn install"
-2. Create .env file and insert your url name,you can see the example like on .example.env file.
-3. Run it
+2. Create .env file and insert your url name, you can see the example like on .example.env file.
+3. Run it.
 - using npm : "npm run start"
 - using yarn : "yarn start"
-
 if work then continue to next step!
 
-4. Run this command: " electron-packager ./ "your-application-name" --platformm=win32 --arch=x64 --icon=./example.ico
-5. Open bundle and run the exe file
+4. Run this command: "electron-packager ./ "your-application-name" --platformm=win32 --arch=x64 --icon=./example.ico"
+   - if success you will see a new folder with your application name
+6. Open folder and run the exe file,
 
 Note:
 > You must modify file package.json using your app name in
