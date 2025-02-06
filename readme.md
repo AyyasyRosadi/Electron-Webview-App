@@ -7,12 +7,12 @@ Have a favorite website that you want to access easily with just one click?
 simple way:
 
 1. Installing Package
-- using NPM: "run npm i"
-- using Yarn: "yarn install"
-2. Create Env file and insert your url name, the example like on .example.env file
+- using npm: "run npm i"
+- using yarn: "yarn install"
+2. Create .env file and insert your url name,you can see the example like on .example.env file.
 3. Run it
-- using NPM : "npm run start"
-- using Yarn : "yarn start"
+- using npm : "npm run start"
+- using yarn : "yarn start"
 
 if work then continue to next step!
 
@@ -20,8 +20,9 @@ if work then continue to next step!
 5. Open bundle and run the exe file
 
 Note:
--> you can modify file package.json using your app name in
+-> You must modify file package.json using your app name in
 - name
 - productName
+-> put your icon file on the same folder, extension must .ico
 
 any question you can ask to this email - ayyasyrsdy@gmail.com
