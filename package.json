@@ -1,6 +1,6 @@
 {
-  "name": "gmail",
-  "productName": "Gmail",
+  "name": "your_app_name",
+  "productName": "your_app_name",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
