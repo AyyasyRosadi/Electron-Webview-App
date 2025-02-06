@@ -18,13 +18,13 @@ simple way:
 
 if work then continue to next step!
 
-4. Run this command: " electron-packager ./ your-app-name --platformm=win32 --arch=x64 --icon=your-icon-path
+4. Run this command: " electron-packager ./ "your-application-name" --platformm=win32 --arch=x64 --icon=./example.ico
 5. Open bundle and run the exe file
 
 Note:
 > You must modify file package.json using your app name in
 - name
 - productName
-> put your icon file on the same folder, extension must .ico
+> addition : change example.ico with your icon, extension must same ".ico"
 
 any question you can ask to this email - ayyasyrsdy@gmail.com
