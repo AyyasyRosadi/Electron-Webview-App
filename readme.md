@@ -7,7 +7,7 @@
 simple way:
 
 1. Installing Package
-   > if you dont have npm or yarn you can download from this url https://nodejs.org/en/download.
+> if you dont have npm or yarn you can download from this url https://nodejs.org/en/download.
 
 - using npm: "run npm i"
 - using yarn: "yarn install"
@@ -25,11 +25,9 @@ if work then continue to next step!
 5. Open folder and run the exe file,
 
 Note:
-
 > You must modify inside package.json file using your app name in two key:
-
 - name
 - productName
-  > addition : change example.ico with your icon, extension must same ".ico"
+> addition : change example.ico with your icon, extension must same ".ico"
 
 any question you can ask to this email - ayyasyrsdy@gmail.com
