@@ -7,12 +7,12 @@ Have a favorite website that you want to access easily with just one click?
 simple way:
 
 1. Installing Package
--- using NPM: "run npm i"
--- using Yarn: "yarn install"
+- using NPM: "run npm i"
+- using Yarn: "yarn install"
 2. Create Env file and insert your url name, the example like on .example.env file
 3. Run it
--- using NPM : "npm run start"
--- using Yarn : "yarn start"
+- using NPM : "npm run start"
+- using Yarn : "yarn start"
 
 if work then continue to next step!
 
