@@ -1,6 +1,6 @@
 {
-  "name": "your_app_name",
-  "productName": "your_product_name",
+  "name": "gmail",
+  "productName": "Gmail",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -13,8 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.4.7",
-    "electron-packager": "^17.1.2"
+    "dotenv": "^16.4.7"
   },
   "build": {
     "appId": "com.electron.app",
@@ -27,6 +26,7 @@
     }
   },
   "devDependencies": {
-    "electron": "^34.1.0"
+    "electron": "^34.1.0",
+    "electron-packager": "^17.1.2"
   }
 }
