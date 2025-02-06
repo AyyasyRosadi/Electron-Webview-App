@@ -7,6 +7,8 @@ Have a favorite website that you want to access easily with just dobble click?
 simple way:
 
 1. Installing Package
+> if you dont have npm or yarn you can download from this url https://nodejs.org/en/download
+
 - using npm: "run npm i"
 - using yarn: "yarn install"
 2. Create .env file and insert your url name,you can see the example like on .example.env file.
