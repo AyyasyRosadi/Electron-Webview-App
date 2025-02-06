@@ -16,7 +16,7 @@ simple way:
 
 if work then continue to next step!
 
-4. Run this command: " electron-packager ./ <your-app-name> --platformm=win32 --arch=x64 --icon=<your-icon-path>
+4. Run this command: " electron-packager ./ your-app-name --platformm=win32 --arch=x64 --icon=your-icon-path
 5. Open bundle and run the exe file
 
 Note:
