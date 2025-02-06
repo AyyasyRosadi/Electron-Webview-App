@@ -20,9 +20,9 @@ if work then continue to next step!
 5. Open bundle and run the exe file
 
 Note:
--> You must modify file package.json using your app name in
+> You must modify file package.json using your app name in
 - name
 - productName
--> put your icon file on the same folder, extension must .ico
+> put your icon file on the same folder, extension must .ico
 
 any question you can ask to this email - ayyasyrsdy@gmail.com
