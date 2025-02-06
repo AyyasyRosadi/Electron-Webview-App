@@ -13,7 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "electron-packager": "^17.1.2"
   },
   "build": {
     "appId": "com.electron.app",
