@@ -22,7 +22,7 @@ if work then continue to next step!
 6. Open folder and run the exe file,
 
 Note:
-> You must modify file package.json using your app name in
+> You must modify inside package.json file using your app name in two key:
 - name
 - productName
 > addition : change example.ico with your icon, extension must same ".ico"
