@@ -1,0 +1,5 @@
+node_modules/
+cx_player-win32-x64/
+.env
+player_cx-win32-x64.rar
+CX192.ico
