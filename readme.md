@@ -2,7 +2,7 @@
 
 This code is intended to create a desktop application that is directed directly to a website url on the internet.
 
-Have a favorite website that you want to access easily with just one click?
+Have a favorite website that you want to access easily with just dobble click?
 
 simple way:
 
