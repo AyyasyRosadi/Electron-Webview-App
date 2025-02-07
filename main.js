@@ -25,7 +25,7 @@ function createWindow() {
       frame: false,
       // transparent: true,
     });
-
+    win.setBounds({ x: 0, y: 0, width: width, height: height });
     win.loadURL(LOAD_URL);
   } catch (err) {
     console.log("ERR#in:createWindow", err);
