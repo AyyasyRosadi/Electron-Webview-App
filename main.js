@@ -1,7 +1,7 @@
 import { app, BrowserWindow, screen } from "electron";
-import dotenv from "dotenv";
 
-dotenv.config();
+let LOAD_URL = "https://your-url.com";
+
 function createWindow() {
   try {
     const displays = screen.getAllDisplays();
@@ -26,7 +26,7 @@ function createWindow() {
       // transparent: true,
     });
 
-    win.loadURL(process.env.LOAD_URL);
+    win.loadURL(LOAD_URL);
   } catch (err) {
     console.log("ERR#in:createWindow", err);
   }
