@@ -1,6 +1,6 @@
 {
-  "name": "your_app_name",
-  "productName": "your_app_name",
+  "name": "cx_player",
+  "productName": "cx_player",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",

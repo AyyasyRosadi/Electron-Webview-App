@@ -1,6 +1,7 @@
 import { app, BrowserWindow, screen } from "electron";
+import path from "path";
 
-let LOAD_URL = "https://your-url.com";
+let LOAD_URL = "https://cxds-player.mdevoffice.net?device=electron";
 
 function createWindow() {
   try {
@@ -25,8 +26,12 @@ function createWindow() {
       frame: false,
       // transparent: true,
     });
-    win.setBounds({ x: 0, y: 0, width: width, height: height });
-    win.loadURL(LOAD_URL);
+    win.loadFile("./splash.html");
+
+    setTimeout(() => {
+      win.setBounds({ x: 0, y: 0, width: width, height: height });
+      win.loadURL(LOAD_URL);
+    }, 5000);
   } catch (err) {
     console.log("ERR#in:createWindow", err);
   }
